@@ -21,3 +21,7 @@ There is also a simple perceptron learner in this project folder. To run, put [p
     $ python2 perceptron.py
 
 This will run a single perceptron learner on the provided linearly-separable dataset until convergence.
+
+---
+
+Requires Python 2.7
